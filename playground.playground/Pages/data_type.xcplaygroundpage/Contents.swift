@@ -90,8 +90,8 @@ print(multiline)
 
 let tuple = (10, 3.14, "Test string")
 print(tuple.2)
-let (int, double, string) = tuple
-print("\(int), \(double), \(string)")
+let (int, _, string) = tuple    // Ignore double
+print("\(int), \(string)")
 
 /*:
  ## **Optional** Data Type

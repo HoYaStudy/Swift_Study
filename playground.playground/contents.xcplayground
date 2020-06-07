@@ -4,5 +4,7 @@
         <page name='ToC'/>
         <page name='data_type'/>
         <page name='variable_constant'/>
+        <page name='operator'/>
+        <page name='control_flow'/>
     </pages>
 </playground>
