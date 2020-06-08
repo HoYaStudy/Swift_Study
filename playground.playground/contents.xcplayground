@@ -6,5 +6,6 @@
         <page name='variable_constant'/>
         <page name='operator'/>
         <page name='control_flow'/>
+        <page name='function'/>
     </pages>
 </playground>

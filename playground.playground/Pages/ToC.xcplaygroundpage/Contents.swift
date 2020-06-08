@@ -3,4 +3,5 @@
  * [Variable and Constant](variable_constant)
  * [Operator](operator)
  * [Control Flow](control_flow)
+ * [Function](function)
 */
