@@ -4,4 +4,6 @@
  * [Operator](operator)
  * [Control Flow](control_flow)
  * [Function](function)
+ * [Class](class)
+ * [Protocol](protocol)
 */

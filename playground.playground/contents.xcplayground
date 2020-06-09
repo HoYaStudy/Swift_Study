@@ -7,5 +7,7 @@
         <page name='operator'/>
         <page name='control_flow'/>
         <page name='function'/>
+        <page name='class'/>
+        <page name='protocol'/>
     </pages>
 </playground>
