@@ -9,5 +9,7 @@
         <page name='function'/>
         <page name='class'/>
         <page name='protocol'/>
+        <page name='structure'/>
+        <page name='property_wrapper'/>
     </pages>
 </playground>

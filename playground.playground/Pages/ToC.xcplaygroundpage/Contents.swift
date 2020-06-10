@@ -6,4 +6,6 @@
  * [Function](function)
  * [Class](class)
  * [Protocol](protocol)
+ * [Structure](structure)
+ * [Property Wrapper](property_wrapper)
 */
