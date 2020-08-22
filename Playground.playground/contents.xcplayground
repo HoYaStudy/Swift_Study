@@ -13,5 +13,6 @@
         <page name='structure'/>
         <page name='property_wrapper'/>
         <page name='error_handling'/>
+        <page name='swift_5.1'/>
     </pages>
 </playground>
